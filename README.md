@@ -1,4 +1,4 @@
-# 01 HTML CSS Git: Code Refactor
+# HTML CSS Git: Code Refactor
 
 ![Code Refactor App](./assets/images/app.png)
 You can see the deployed app [here](https://maphaiyarath.github.io/bootcamp-html-css-git-code-refactor/).
