@@ -1,7 +1,7 @@
 # HTML CSS Git: Code Refactor
 
 ![Code Refactor App](./assets/images/app.png)
-You can see the deployed app [here](https://maphaiyarath.github.io/bootcamp-html-css-git-code-refactor/).
+You can see the deployed app [here](https://maphaiyarath.github.io/code-refactor/).
 
 ## Table of Contents
 * [Description](#description)
@@ -27,4 +27,4 @@ n/a
 This project is licensed under the MIT license.
 
 ## Badges
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/maphaiyarath/bootcamp-html-css-git-code-refactor)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/maphaiyarath/ode-refactor)
